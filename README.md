@@ -1,5 +1,4 @@
-**Mi primer README** (colócalo en tu
-
+**Mi primer README** 
 ```md
 # Proyecto Día 4
 
